@@ -1,1 +1,1 @@
-# fr-meetups
+# DoiT - FR Meetups
